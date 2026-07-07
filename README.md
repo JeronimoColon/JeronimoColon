@@ -1,0 +1,3 @@
+<img src="assets/terminal.svg" width="840" alt="Terminal session. whoami: Jeronimo Colon III, engineering leader, hacking on fun projects, NYC. 15 years growing and leading high-performing teams across financial services, civic tech, B2C and B2B SaaS products, and high-traffic travel. From bio to tech, always thinking in systems. Building Tidesman, a free native MCP server for Apple's container tool, and aws-ses-relay, a Rust Lambda that gates and forwards inbound SES mail. Stack: Rust, TypeScript, Python, Swift, AWS. The changelog shows the latest releases.">
+
+[jeronimocolon.com](https://jeronimocolon.com) · [tidesman.dev](https://tidesman.dev) · [listmy.info](https://listmy.info) · [@JeronimoColon](https://x.com/JeronimoColon)
